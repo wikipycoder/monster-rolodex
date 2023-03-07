@@ -1,0 +1,16 @@
+
+.search-container {
+
+    margin: 50px;
+}
+
+
+.search {
+
+    width: 50%;
+    height: 40px;
+    border: none;
+    outline: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
